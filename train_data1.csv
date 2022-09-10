@@ -1,0 +1,453 @@
+case_id,Department,Type_of_Admission,Severity_of_Illness,Age,Stay
+1,radiotherapy,Emergency,Extreme,51-60,0-10
+2,radiotherapy,Trauma,Extreme,51-60,11-50
+3,anesthesia,Trauma,Extreme,51-60,11-50
+4,radiotherapy,Trauma,Extreme,51-60,11-50
+5,radiotherapy,Trauma,Extreme,51-60,11-50
+6,anesthesia,Trauma,Extreme,51-60,11-50
+7,radiotherapy,Emergency,Extreme,51-60,0-10
+8,radiotherapy,Trauma,Extreme,51-60,11-50
+9,gynecology,Trauma,Extreme,51-60,More than 50 Days
+10,gynecology,Trauma,Extreme,51-60,11-50
+11,radiotherapy,Urgent,Extreme,51-60,11-50
+13,radiotherapy,Emergency,Extreme,51-60,0-10
+14,radiotherapy,Urgent,Extreme,51-60,11-50
+15,gynecology,Emergency,Extreme,71-80,0-10
+16,gynecology,Emergency,Extreme,71-80,0-10
+17,radiotherapy,Urgent,Extreme,71-80,0-10
+19,radiotherapy,Trauma,Extreme,71-80,11-50
+20,radiotherapy,Trauma,Extreme,71-80,11-50
+21,anesthesia,Trauma,Extreme,71-80,11-50
+22,anesthesia,Trauma,Extreme,71-80,11-50
+24,anesthesia,Urgent,Extreme,71-80,11-50
+25,radiotherapy,Trauma,Extreme,71-80,11-50
+28,gynecology,Trauma,Moderate,31-40,11-50
+29,gynecology,Trauma,Moderate,31-40,11-50
+30,gynecology,Trauma,Moderate,31-40,11-50
+31,gynecology,Urgent,Moderate,31-40,More than 50 Days
+32,gynecology,Emergency,Moderate,41-50,0-10
+36,gynecology,Emergency,Moderate,31-40,0-10
+37,gynecology,Emergency,Minor,71-80,11-50
+38,radiotherapy,Emergency,Minor,71-80,11-50
+40,radiotherapy,Emergency,Minor,71-80,More than 50 Days
+41,radiotherapy,Emergency,Minor,71-80,0-10
+42,radiotherapy,Emergency,Moderate,31-40,0-10
+43,gynecology,Emergency,Moderate,31-40,11-50
+44,gynecology,Emergency,Moderate,31-40,More than 50 Days
+45,gynecology,Emergency,Moderate,31-40,More than 50 Days
+46,gynecology,Emergency,Moderate,31-40,More than 50 Days
+47,TB & Chest disease,Emergency,Extreme,51-60,0-10
+48,gynecology,Emergency,Extreme,51-60,More than 50 Days
+50,TB & Chest disease,Emergency,Extreme,51-60,More than 50 Days
+52,radiotherapy,Emergency,Moderate,31-40,0-10
+53,radiotherapy,Emergency,Moderate,31-40,11-50
+54,radiotherapy,Emergency,Moderate,31-40,11-50
+56,radiotherapy,Emergency,Moderate,31-40,11-50
+57,radiotherapy,Trauma,Moderate,31-40,11-50
+58,radiotherapy,Urgent,Moderate,31-40,11-50
+59,anesthesia,Emergency,Moderate,31-40,11-50
+61,gynecology,Emergency,Moderate,81-90,0-10
+63,gynecology,Emergency,Moderate,81-90,More than 50 Days
+64,gynecology,Emergency,Moderate,81-90,11-50
+65,gynecology,Emergency,Moderate,81-90,11-50
+67,gynecology,Emergency,Moderate,81-90,0-10
+70,gynecology,Emergency,Moderate,81-90,11-50
+71,gynecology,Emergency,Moderate,81-90,0-10
+72,gynecology,Emergency,Moderate,81-90,11-50
+73,gynecology,Emergency,Moderate,81-90,0-10
+76,gynecology,Trauma,Moderate,61-70,11-50
+77,anesthesia,Trauma,Moderate,61-70,More than 50 Days
+78,anesthesia,Trauma,Moderate,61-70,More than 50 Days
+79,anesthesia,Trauma,Moderate,61-70,More than 50 Days
+80,gynecology,Trauma,Minor,41-50,More than 50 Days
+81,gynecology,Trauma,Minor,41-50,More than 50 Days
+82,gynecology,Trauma,Minor,41-50,11-50
+83,anesthesia,Trauma,Minor,41-50,11-50
+84,gynecology,Emergency,Minor,41-50,11-50
+85,TB & Chest disease,Emergency,Minor,71-80,0-10
+86,gynecology,Trauma,Minor,71-80,11-50
+87,gynecology,Emergency,Minor,71-80,0-10
+88,anesthesia,Trauma,Moderate,21-30,0-10
+91,radiotherapy,Urgent,Moderate,21-30,More than 50 Days
+92,gynecology,Emergency,Moderate,21-30,11-50
+94,gynecology,Urgent,Moderate,31-40,More than 50 Days
+95,gynecology,Emergency,Moderate,31-40,11-50
+97,gynecology,Urgent,Moderate,31-40,11-50
+98,gynecology,Urgent,Moderate,31-40,11-50
+99,gynecology,Urgent,Moderate,31-40,11-50
+101,gynecology,Trauma,Moderate,61-70,11-50
+102,gynecology,Trauma,Moderate,61-70,11-50
+103,gynecology,Trauma,Moderate,61-70,More than 50 Days
+105,gynecology,Trauma,Moderate,61-70,11-50
+106,gynecology,Emergency,Moderate,61-70,11-50
+107,gynecology,Urgent,Moderate,61-70,11-50
+109,gynecology,Emergency,Moderate,71-80,More than 50 Days
+110,gynecology,Emergency,Moderate,71-80,11-50
+111,gynecology,Emergency,Moderate,71-80,11-50
+112,radiotherapy,Trauma,Moderate,31-40,11-50
+113,radiotherapy,Emergency,Moderate,31-40,0-10
+114,gynecology,Trauma,Moderate,31-40,11-50
+115,gynecology,Trauma,Moderate,31-40,11-50
+119,anesthesia,Emergency,Minor,61-70,11-50
+120,anesthesia,Emergency,Minor,61-70,11-50
+121,gynecology,Emergency,Moderate,41-50,11-50
+122,gynecology,Trauma,Moderate,41-50,11-50
+123,gynecology,Emergency,Moderate,21-30,0-10
+125,gynecology,Trauma,Moderate,21-30,11-50
+126,gynecology,Trauma,Moderate,21-30,11-50
+127,gynecology,Trauma,Moderate,21-30,11-50
+128,gynecology,Trauma,Moderate,21-30,More than 50 Days
+130,gynecology,Emergency,Extreme,20-Nov,0-10
+131,gynecology,Emergency,Extreme,20-Nov,0-10
+132,gynecology,Emergency,Extreme,20-Nov,11-50
+133,gynecology,Trauma,Extreme,20-Nov,11-50
+135,gynecology,Trauma,Extreme,20-Nov,11-50
+136,anesthesia,Urgent,Extreme,20-Nov,11-50
+137,gynecology,Urgent,Extreme,20-Nov,11-50
+138,gynecology,Urgent,Extreme,20-Nov,11-50
+139,gynecology,Urgent,Extreme,20-Nov,11-50
+140,gynecology,Emergency,Moderate,81-90,11-50
+141,gynecology,Emergency,Moderate,81-90,11-50
+142,radiotherapy,Emergency,Moderate,81-90,More than 50 Days
+143,TB & Chest disease,Emergency,Moderate,81-90,More than 50 Days
+144,gynecology,Emergency,Moderate,81-90,11-50
+145,gynecology,Emergency,Moderate,81-90,11-50
+146,gynecology,Emergency,Moderate,81-90,11-50
+147,gynecology,Emergency,Moderate,81-90,11-50
+148,gynecology,Emergency,Minor,20-Nov,0-10
+149,gynecology,Emergency,Minor,20-Nov,0-10
+150,gynecology,Emergency,Moderate,61-70,0-10
+151,gynecology,Emergency,Moderate,61-70,11-50
+152,gynecology,Trauma,Moderate,61-70,More than 50 Days
+153,gynecology,Trauma,Moderate,61-70,11-50
+154,gynecology,Emergency,Moderate,61-70,11-50
+155,radiotherapy,Emergency,Moderate,21-30,11-50
+156,radiotherapy,Emergency,Moderate,21-30,More than 50 Days
+157,anesthesia,Trauma,Moderate,21-30,More than 50 Days
+158,anesthesia,Urgent,Moderate,21-30,11-50
+159,gynecology,Emergency,Minor,21-30,0-10
+160,gynecology,Trauma,Minor,21-30,0-10
+161,gynecology,Emergency,Moderate,41-50,0-10
+162,gynecology,Emergency,Moderate,51-60,11-50
+163,gynecology,Emergency,Minor,41-50,11-50
+164,gynecology,Emergency,Extreme,31-40,More than 50 Days
+165,gynecology,Emergency,Extreme,31-40,11-50
+166,gynecology,Emergency,Extreme,31-40,0-10
+167,gynecology,Urgent,Extreme,31-40,11-50
+168,gynecology,Urgent,Extreme,31-40,11-50
+169,gynecology,Emergency,Extreme,51-60,11-50
+170,gynecology,Trauma,Extreme,51-60,11-50
+171,gynecology,Emergency,Extreme,51-60,More than 50 Days
+172,gynecology,Emergency,Extreme,51-60,11-50
+173,gynecology,Emergency,Extreme,51-60,11-50
+174,gynecology,Emergency,Extreme,51-60,More than 50 Days
+175,anesthesia,Emergency,Extreme,51-60,11-50
+176,gynecology,Emergency,Extreme,51-60,11-50
+177,anesthesia,Trauma,Extreme,51-60,More than 50 Days
+178,gynecology,Emergency,Moderate,31-40,11-50
+179,gynecology,Trauma,Moderate,31-40,11-50
+180,gynecology,Emergency,Minor,51-60,11-50
+181,gynecology,Emergency,Moderate,71-80,More than 50 Days
+182,radiotherapy,Trauma,Moderate,71-80,11-50
+183,anesthesia,Urgent,Moderate,71-80,More than 50 Days
+184,anesthesia,Trauma,Moderate,71-80,More than 50 Days
+185,radiotherapy,Emergency,Moderate,71-80,More than 50 Days
+186,gynecology,Emergency,Extreme,51-60,11-50
+187,gynecology,Emergency,Minor,31-40,11-50
+188,gynecology,Emergency,Minor,31-40,More than 50 Days
+189,gynecology,Emergency,Minor,31-40,11-50
+190,anesthesia,Urgent,Minor,31-40,11-50
+191,anesthesia,Trauma,Minor,31-40,11-50
+192,radiotherapy,Emergency,Minor,71-80,More than 50 Days
+193,anesthesia,Trauma,Minor,71-80,11-50
+194,radiotherapy,Trauma,Minor,71-80,11-50
+195,anesthesia,Trauma,Minor,71-80,11-50
+196,radiotherapy,Urgent,Minor,71-80,11-50
+197,gynecology,Emergency,Moderate,31-40,11-50
+198,gynecology,Emergency,Moderate,31-40,11-50
+199,gynecology,Emergency,Moderate,31-40,More than 50 Days
+200,gynecology,Urgent,Moderate,31-40,11-50
+201,gynecology,Emergency,Minor,41-50,11-50
+202,gynecology,Emergency,Minor,41-50,11-50
+203,gynecology,Emergency,Moderate,41-50,11-50
+204,gynecology,Trauma,Moderate,41-50,More than 50 Days
+205,gynecology,Trauma,Moderate,41-50,More than 50 Days
+206,gynecology,Trauma,Moderate,41-50,11-50
+207,gynecology,Trauma,Moderate,41-50,11-50
+208,gynecology,Urgent,Moderate,41-50,More than 50 Days
+209,gynecology,Urgent,Moderate,41-50,11-50
+210,gynecology,Urgent,Moderate,41-50,11-50
+211,gynecology,Trauma,Extreme,81-90,11-50
+212,gynecology,Emergency,Extreme,81-90,11-50
+213,gynecology,Emergency,Extreme,81-90,11-50
+214,radiotherapy,Urgent,Extreme,81-90,11-50
+215,gynecology,Trauma,Moderate,31-40,11-50
+216,gynecology,Trauma,Moderate,31-40,11-50
+217,gynecology,Trauma,Moderate,31-40,11-50
+218,gynecology,Trauma,Extreme,31-40,11-50
+219,gynecology,Emergency,Extreme,31-40,More than 50 Days
+220,gynecology,Emergency,Extreme,31-40,More than 50 Days
+221,anesthesia,Emergency,Extreme,31-40,11-50
+222,gynecology,Trauma,Moderate,51-60,11-50
+223,gynecology,Trauma,Moderate,51-60,More than 50 Days
+224,gynecology,Trauma,Moderate,51-60,0-10
+225,gynecology,Trauma,Moderate,51-60,0-10
+226,gynecology,Trauma,Moderate,51-60,11-50
+228,gynecology,Trauma,Moderate,51-60,11-50
+229,gynecology,Trauma,Moderate,51-60,0-10
+230,gynecology,Trauma,Moderate,51-60,11-50
+231,gynecology,Trauma,Moderate,51-60,0-10
+232,gynecology,Emergency,Moderate,51-60,0-10
+233,gynecology,Trauma,Moderate,41-50,More than 50 Days
+234,gynecology,Trauma,Moderate,41-50,More than 50 Days
+236,gynecology,Trauma,Moderate,41-50,11-50
+237,gynecology,Trauma,Minor,31-40,11-50
+238,gynecology,Urgent,Minor,31-40,More than 50 Days
+239,anesthesia,Urgent,Minor,31-40,11-50
+240,gynecology,Emergency,Moderate,20-Nov,More than 50 Days
+241,TB & Chest disease,Emergency,Moderate,20-Nov,11-50
+243,TB & Chest disease,Trauma,Moderate,20-Nov,11-50
+244,TB & Chest disease,Trauma,Moderate,20-Nov,11-50
+245,gynecology,Trauma,Moderate,20-Nov,11-50
+246,TB & Chest disease,Trauma,Moderate,20-Nov,11-50
+247,gynecology,Trauma,Moderate,20-Nov,11-50
+248,radiotherapy,Trauma,Moderate,20-Nov,11-50
+249,gynecology,Emergency,Extreme,61-70,11-50
+250,gynecology,Emergency,Extreme,61-70,11-50
+251,gynecology,Emergency,Extreme,61-70,11-50
+252,gynecology,Urgent,Extreme,61-70,11-50
+253,gynecology,Emergency,Moderate,71-80,More than 50 Days
+254,gynecology,Trauma,Extreme,61-70,11-50
+256,gynecology,Trauma,Extreme,61-70,11-50
+257,gynecology,Trauma,Extreme,61-70,11-50
+258,gynecology,Trauma,Extreme,61-70,11-50
+259,gynecology,Trauma,Extreme,61-70,11-50
+260,gynecology,Trauma,Extreme,61-70,11-50
+261,gynecology,Emergency,Extreme,61-70,11-50
+262,gynecology,Trauma,Extreme,31-40,More than 50 Days
+263,gynecology,Emergency,Extreme,31-40,More than 50 Days
+264,gynecology,Trauma,Extreme,31-40,More than 50 Days
+265,gynecology,Trauma,Extreme,31-40,More than 50 Days
+266,gynecology,Urgent,Extreme,31-40,11-50
+267,gynecology,Urgent,Extreme,31-40,11-50
+268,gynecology,Trauma,Minor,31-40,11-50
+271,gynecology,Trauma,Minor,31-40,More than 50 Days
+272,gynecology,Trauma,Minor,31-40,11-50
+273,gynecology,Trauma,Minor,31-40,11-50
+274,gynecology,Emergency,Minor,61-70,11-50
+275,gynecology,Trauma,Minor,61-70,11-50
+277,gynecology,Urgent,Minor,61-70,11-50
+278,gynecology,Emergency,Minor,61-70,11-50
+279,gynecology,Emergency,Moderate,41-50,11-50
+280,gynecology,Trauma,Moderate,41-50,11-50
+281,gynecology,Trauma,Moderate,41-50,0-10
+282,gynecology,Emergency,Extreme,71-80,More than 50 Days
+283,gynecology,Emergency,Extreme,71-80,More than 50 Days
+284,gynecology,Trauma,Extreme,71-80,More than 50 Days
+285,gynecology,Trauma,Extreme,71-80,11-50
+286,gynecology,Emergency,Minor,71-80,11-50
+287,gynecology,Emergency,Minor,71-80,11-50
+288,gynecology,Emergency,Minor,71-80,11-50
+289,radiotherapy,Trauma,Minor,71-80,11-50
+290,gynecology,Emergency,Extreme,21-30,11-50
+291,gynecology,Emergency,Extreme,21-30,11-50
+292,gynecology,Emergency,Extreme,21-30,11-50
+293,gynecology,Trauma,Extreme,21-30,11-50
+294,gynecology,Trauma,Extreme,21-30,11-50
+295,gynecology,Urgent,Extreme,21-30,0-10
+296,gynecology,Urgent,Extreme,21-30,11-50
+297,gynecology,Emergency,Extreme,31-40,11-50
+298,gynecology,Trauma,Extreme,31-40,More than 50 Days
+299,radiotherapy,Trauma,Extreme,31-40,More than 50 Days
+300,radiotherapy,Emergency,Extreme,31-40,11-50
+301,radiotherapy,Emergency,Extreme,31-40,More than 50 Days
+302,gynecology,Emergency,Extreme,31-40,More than 50 Days
+303,gynecology,Emergency,Extreme,31-40,11-50
+304,gynecology,Emergency,Moderate,51-60,11-50
+305,TB & Chest disease,Trauma,Moderate,51-60,More than 50 Days
+306,gynecology,Trauma,Moderate,51-60,11-50
+311,gynecology,Emergency,Extreme,51-60,More than 50 Days
+312,gynecology,Emergency,Extreme,51-60,More than 50 Days
+313,gynecology,Emergency,Extreme,51-60,More than 50 Days
+314,gynecology,Emergency,Extreme,51-60,More than 50 Days
+315,gynecology,Trauma,Extreme,51-60,More than 50 Days
+316,gynecology,Emergency,Extreme,51-60,More than 50 Days
+317,anesthesia,Trauma,Extreme,51-60,More than 50 Days
+318,gynecology,Emergency,Extreme,51-60,11-50
+319,gynecology,Emergency,Extreme,51-60,11-50
+320,gynecology,Trauma,Extreme,51-60,More than 50 Days
+321,gynecology,Trauma,Extreme,51-60,More than 50 Days
+322,gynecology,Urgent,Extreme,51-60,More than 50 Days
+323,gynecology,Urgent,Extreme,51-60,More than 50 Days
+324,gynecology,Emergency,Moderate,81-90,More than 50 Days
+325,gynecology,Emergency,Moderate,81-90,11-50
+326,gynecology,Trauma,Moderate,81-90,11-50
+327,gynecology,Trauma,Moderate,81-90,More than 50 Days
+328,gynecology,Trauma,Moderate,81-90,More than 50 Days
+329,gynecology,Trauma,Moderate,81-90,11-50
+330,gynecology,Trauma,Moderate,81-90,More than 50 Days
+331,gynecology,Trauma,Moderate,81-90,More than 50 Days
+332,gynecology,Emergency,Moderate,81-90,More than 50 Days
+333,gynecology,Emergency,Moderate,31-40,More than 50 Days
+334,anesthesia,Emergency,Moderate,31-40,11-50
+335,gynecology,Emergency,Moderate,31-40,More than 50 Days
+336,gynecology,Trauma,Moderate,31-40,11-50
+337,anesthesia,Urgent,Moderate,31-40,11-50
+338,anesthesia,Urgent,Moderate,31-40,More than 50 Days
+339,gynecology,Trauma,Extreme,61-70,11-50
+342,gynecology,Emergency,Extreme,61-70,More than 50 Days
+343,gynecology,Emergency,Extreme,61-70,More than 50 Days
+344,gynecology,Trauma,Extreme,61-70,11-50
+345,gynecology,Trauma,Extreme,61-70,11-50
+348,gynecology,Trauma,Extreme,61-70,11-50
+349,gynecology,Urgent,Extreme,61-70,11-50
+350,gynecology,Trauma,Moderate,31-40,11-50
+351,gynecology,Trauma,Moderate,31-40,11-50
+352,gynecology,Trauma,Moderate,31-40,11-50
+353,gynecology,Trauma,Moderate,31-40,11-50
+354,gynecology,Trauma,Moderate,31-40,0-10
+355,gynecology,Urgent,Moderate,31-40,More than 50 Days
+356,gynecology,Urgent,Moderate,31-40,11-50
+357,gynecology,Emergency,Moderate,31-40,11-50
+358,gynecology,Emergency,Moderate,31-40,11-50
+359,gynecology,Trauma,Moderate,31-40,11-50
+360,gynecology,Trauma,Moderate,31-40,11-50
+361,gynecology,Trauma,Moderate,31-40,More than 50 Days
+362,gynecology,Trauma,Moderate,31-40,0-10
+363,gynecology,Urgent,Moderate,31-40,11-50
+364,gynecology,Urgent,Moderate,31-40,11-50
+365,gynecology,Emergency,Moderate,31-40,0-10
+366,anesthesia,Trauma,Moderate,31-40,0-10
+367,anesthesia,Trauma,Moderate,31-40,11-50
+368,gynecology,Emergency,Moderate,31-40,11-50
+369,gynecology,Emergency,Moderate,31-40,11-50
+370,gynecology,Trauma,Moderate,31-40,11-50
+371,gynecology,Trauma,Moderate,31-40,11-50
+372,gynecology,Emergency,Extreme,61-70,11-50
+373,gynecology,Emergency,Extreme,61-70,More than 50 Days
+374,radiotherapy,Emergency,Extreme,61-70,More than 50 Days
+375,gynecology,Emergency,Extreme,61-70,More than 50 Days
+376,gynecology,Emergency,Extreme,61-70,11-50
+377,gynecology,Emergency,Extreme,61-70,11-50
+378,gynecology,Emergency,Extreme,61-70,11-50
+379,radiotherapy,Emergency,Extreme,61-70,11-50
+380,gynecology,Emergency,Extreme,61-70,11-50
+381,gynecology,Trauma,Extreme,61-70,0-10
+382,gynecology,Urgent,Extreme,61-70,More than 50 Days
+383,anesthesia,Urgent,Extreme,61-70,11-50
+384,gynecology,Urgent,Extreme,61-70,11-50
+385,radiotherapy,Emergency,Extreme,61-70,More than 50 Days
+386,radiotherapy,Emergency,Extreme,61-70,More than 50 Days
+387,radiotherapy,Emergency,Moderate,21-30,More than 50 Days
+388,TB & Chest disease,Trauma,Moderate,21-30,11-50
+389,TB & Chest disease,Trauma,Moderate,21-30,0-10
+390,gynecology,Emergency,Moderate,21-30,11-50
+391,radiotherapy,Urgent,Moderate,21-30,11-50
+392,TB & Chest disease,Emergency,Moderate,21-30,0-10
+393,radiotherapy,Urgent,Moderate,21-30,0-10
+394,gynecology,Trauma,Minor,51-60,0-10
+395,anesthesia,Trauma,Minor,51-60,11-50
+396,gynecology,Trauma,Minor,51-60,11-50
+397,gynecology,Emergency,Extreme,71-80,11-50
+398,gynecology,Urgent,Extreme,71-80,11-50
+399,anesthesia,Urgent,Extreme,71-80,11-50
+400,gynecology,Urgent,Extreme,71-80,More than 50 Days
+401,gynecology,Urgent,Extreme,71-80,More than 50 Days
+402,gynecology,Trauma,Moderate,41-50,11-50
+403,gynecology,Trauma,Moderate,41-50,More than 50 Days
+404,gynecology,Trauma,Moderate,41-50,More than 50 Days
+405,gynecology,Emergency,Moderate,31-40,11-50
+406,gynecology,Emergency,Moderate,31-40,11-50
+407,gynecology,Emergency,Moderate,31-40,11-50
+408,gynecology,Emergency,Moderate,31-40,11-50
+409,gynecology,Emergency,Moderate,31-40,11-50
+410,gynecology,Emergency,Moderate,31-40,11-50
+411,gynecology,Trauma,Moderate,31-40,11-50
+412,gynecology,Emergency,Moderate,31-40,0-10
+413,gynecology,Emergency,Moderate,31-40,11-50
+414,radiotherapy,Emergency,Extreme,21-30,11-50
+415,radiotherapy,Emergency,Extreme,21-30,0-10
+416,radiotherapy,Emergency,Extreme,21-30,11-50
+417,radiotherapy,Emergency,Extreme,21-30,0-10
+418,radiotherapy,Emergency,Extreme,21-30,11-50
+419,radiotherapy,Emergency,Extreme,21-30,11-50
+420,radiotherapy,Emergency,Extreme,21-30,0-10
+421,radiotherapy,Urgent,Extreme,21-30,11-50
+422,radiotherapy,Trauma,Extreme,21-30,11-50
+423,radiotherapy,Urgent,Extreme,21-30,11-50
+424,radiotherapy,Trauma,Extreme,21-30,11-50
+425,gynecology,Trauma,Moderate,61-70,11-50
+426,gynecology,Trauma,Moderate,61-70,More than 50 Days
+427,gynecology,Trauma,Moderate,61-70,More than 50 Days
+428,gynecology,Trauma,Moderate,61-70,11-50
+429,gynecology,Emergency,Moderate,61-70,11-50
+430,gynecology,Trauma,Moderate,61-70,More than 50 Days
+431,gynecology,Trauma,Moderate,61-70,11-50
+432,gynecology,Emergency,Extreme,41-50,11-50
+433,gynecology,Emergency,Extreme,41-50,11-50
+434,gynecology,Trauma,Extreme,41-50,More than 50 Days
+435,gynecology,Emergency,Extreme,41-50,More than 50 Days
+436,gynecology,Trauma,Extreme,41-50,More than 50 Days
+437,gynecology,Trauma,Extreme,41-50,11-50
+438,gynecology,Emergency,Moderate,51-60,11-50
+439,gynecology,Emergency,Moderate,51-60,11-50
+440,gynecology,Trauma,Moderate,51-60,11-50
+441,gynecology,Trauma,Moderate,51-60,0-10
+442,gynecology,Trauma,Moderate,51-60,11-50
+443,gynecology,Urgent,Moderate,51-60,11-50
+444,gynecology,Urgent,Moderate,51-60,11-50
+445,gynecology,Trauma,Moderate,51-60,11-50
+446,gynecology,Trauma,Moderate,51-60,11-50
+447,gynecology,Trauma,Moderate,51-60,11-50
+448,gynecology,Trauma,Moderate,51-60,11-50
+449,gynecology,Emergency,Moderate,51-60,0-10
+450,gynecology,Emergency,Moderate,51-60,0-10
+451,gynecology,Emergency,Moderate,41-50,11-50
+452,gynecology,Emergency,Moderate,41-50,11-50
+453,anesthesia,Trauma,Moderate,41-50,0-10
+454,gynecology,Trauma,Moderate,41-50,0-10
+455,gynecology,Emergency,Moderate,41-50,11-50
+456,radiotherapy,Emergency,Moderate,41-50,11-50
+457,gynecology,Trauma,Moderate,41-50,More than 50 Days
+458,gynecology,Trauma,Moderate,41-50,More than 50 Days
+459,gynecology,Trauma,Moderate,41-50,More than 50 Days
+460,gynecology,Trauma,Moderate,41-50,More than 50 Days
+461,gynecology,Trauma,Moderate,41-50,11-50
+462,gynecology,Urgent,Moderate,41-50,11-50
+463,gynecology,Emergency,Moderate,41-50,11-50
+464,gynecology,Emergency,Moderate,41-50,11-50
+465,gynecology,Emergency,Moderate,41-50,11-50
+466,anesthesia,Trauma,Moderate,41-50,11-50
+467,gynecology,Trauma,Moderate,41-50,11-50
+468,gynecology,Emergency,Moderate,41-50,0-10
+469,gynecology,Trauma,Moderate,41-50,11-50
+470,gynecology,Emergency,Moderate,41-50,11-50
+471,gynecology,Emergency,Moderate,31-40,11-50
+472,gynecology,Emergency,Moderate,31-40,11-50
+473,gynecology,Emergency,Moderate,31-40,0-10
+474,gynecology,Trauma,Moderate,31-40,11-50
+475,gynecology,Urgent,Moderate,31-40,0-10
+476,gynecology,Urgent,Moderate,31-40,11-50
+477,gynecology,Emergency,Minor,61-70,0-10
+478,gynecology,Emergency,Minor,61-70,0-10
+479,gynecology,Trauma,Extreme,41-50,11-50
+480,gynecology,Trauma,Extreme,41-50,11-50
+481,gynecology,Trauma,Extreme,41-50,11-50
+482,gynecology,Trauma,Extreme,41-50,0-10
+483,gynecology,Trauma,Extreme,41-50,11-50
+484,gynecology,Trauma,Extreme,41-50,11-50
+485,gynecology,Trauma,Extreme,41-50,11-50
+486,gynecology,Emergency,Extreme,41-50,11-50
+487,gynecology,Trauma,Extreme,41-50,11-50
+488,gynecology,Trauma,Extreme,41-50,11-50
+489,gynecology,Emergency,Extreme,41-50,11-50
+490,gynecology,Trauma,Extreme,41-50,11-50
+491,gynecology,Trauma,Extreme,41-50,11-50
+492,gynecology,Emergency,Moderate,31-40,11-50
+493,gynecology,Trauma,Moderate,31-40,11-50
+494,gynecology,Trauma,Moderate,31-40,11-50
+495,gynecology,Trauma,Moderate,31-40,11-50
+496,gynecology,Trauma,Moderate,31-40,0-10
+497,gynecology,Trauma,Moderate,31-40,More than 50 Days
+498,gynecology,Trauma,Moderate,31-40,More than 50 Days
+152161,anesthesia,Emergency,Moderate,21-30,More than 50 Days
